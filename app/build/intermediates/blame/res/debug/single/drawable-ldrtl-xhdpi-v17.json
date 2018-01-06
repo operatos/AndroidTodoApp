@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\AndroidTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\쑤헤이\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\81118fa0dfbfcff942e5e050fc5f40df\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\AndroidTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\쑤헤이\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\81118fa0dfbfcff942e5e050fc5f40df\\res\\drawable-ldrtl-xhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\AndroidTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\쑤헤이\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\81118fa0dfbfcff942e5e050fc5f40df\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    }
+]
